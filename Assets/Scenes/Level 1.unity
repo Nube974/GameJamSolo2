@@ -8774,6 +8774,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CharacterControler
       objectReference: {fileID: 0}
+    - target: {fileID: 4987296072843849824, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8999,6 +9003,10 @@ PrefabInstance:
     - target: {fileID: 2441476179075208723, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5807614355650402489, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
+      propertyPath: speed
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6253104258563038611, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
       propertyPath: m_Name

@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7438472516913154539}
+  - component: {fileID: 7360062511050562654}
   m_Layer: 0
   m_Name: Pos2
   m_TagString: Untagged
@@ -31,6 +32,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2441476179075208723}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7360062511050562654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782309642944812626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f591b83718967c046b4be40d4cd15a02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3036456744758663563
 GameObject:
   m_ObjectHideFlags: 0
@@ -95,7 +108,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -288,6 +301,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 313814617493964007}
+  - component: {fileID: 8694007366910505090}
   m_Layer: 0
   m_Name: Pos1
   m_TagString: Untagged
@@ -310,3 +324,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2441476179075208723}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8694007366910505090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8539853867033396934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f591b83718967c046b4be40d4cd15a02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
