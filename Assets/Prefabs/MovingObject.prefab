@@ -289,7 +289,7 @@ MonoBehaviour:
   - {fileID: 313814617493964007}
   - {fileID: 7438472516913154539}
   objToMove: {fileID: 3036456744758663563}
-  speed: 5
+  speed: 2
   autoMove: 1
   looping: 1
 --- !u!1 &8539853867033396934

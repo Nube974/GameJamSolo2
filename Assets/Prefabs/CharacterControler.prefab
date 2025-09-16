@@ -136,9 +136,10 @@ GameObject:
   - component: {fileID: 6555811559593029810}
   - component: {fileID: 3658916264853524660}
   - component: {fileID: 6474430374934907753}
+  - component: {fileID: 9209708998854232991}
   m_Layer: 0
   m_Name: CharacterControler
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -281,3 +282,15 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.37242737, y: 0.4720425}
   m_EdgeRadius: 0
+--- !u!114 &9209708998854232991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4987296072843849824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 829bf4734fa66cd42a68ada3e57610c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
