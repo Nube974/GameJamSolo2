@@ -133,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,7 +147,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -171,7 +171,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -934,7 +934,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      prototype_character_0: 2666167170978389918
+      prototype_character_1: 8562117810355511841
+      prototype_character_10: -1090819813129615499
+      prototype_character_11: 2217606924859224871
+      prototype_character_12: -752699591769107352
+      prototype_character_13: -2529445605319588213
+      prototype_character_14: -7949243693952722254
+      prototype_character_15: -138100264685337175
+      prototype_character_16: -5168199242891519072
+      prototype_character_17: -884389940240779271
+      prototype_character_18: -2802201352367287666
+      prototype_character_19: 2657297898897751053
+      prototype_character_2: 3702279806774835496
+      prototype_character_20: -8787180670893268497
+      prototype_character_21: -3495551688070268332
+      prototype_character_22: 1386933050049096041
+      prototype_character_23: 2020310850248002084
+      prototype_character_24: -4381023856897657659
+      prototype_character_25: -8800713528243343766
+      prototype_character_26: 4693669256740232284
+      prototype_character_27: -3992138497773211457
+      prototype_character_28: -5874971370176989219
+      prototype_character_29: -4280462947151646352
+      prototype_character_3: -7489708013853389806
+      prototype_character_30: -8693093938180812259
+      prototype_character_31: 1316622561570692573
+      prototype_character_32: 5989437124650179988
+      prototype_character_4: 5238044292592336801
+      prototype_character_5: 4584923541809903837
+      prototype_character_6: 4035579806969883910
+      prototype_character_7: -5271382852046822507
+      prototype_character_8: -184105131462546879
+      prototype_character_9: -7011284309700727766
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

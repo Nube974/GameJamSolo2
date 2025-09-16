@@ -30,7 +30,7 @@
                 {
                     "name": "up",
                     "id": "14df26db-6dff-4c25-8a9b-cae351141946",
-                    "path": "<Keyboard>/w",
+                    "path": "<Keyboard>/upArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Mouse and Keyboard",
@@ -41,7 +41,7 @@
                 {
                     "name": "down",
                     "id": "875e3578-1bbc-4378-9879-ae80de3e9373",
-                    "path": "<Keyboard>/s",
+                    "path": "<Keyboard>/downArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Mouse and Keyboard",
@@ -52,7 +52,7 @@
                 {
                     "name": "left",
                     "id": "adb29058-6ee4-4721-ba0b-abe514acbeb9",
-                    "path": "<Keyboard>/a",
+                    "path": "<Keyboard>/leftArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Mouse and Keyboard",
@@ -63,7 +63,7 @@
                 {
                     "name": "right",
                     "id": "4f75ca06-e34f-488f-bd19-d01f24759689",
-                    "path": "<Keyboard>/d",
+                    "path": "<Keyboard>/rightArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Mouse and Keyboard",
