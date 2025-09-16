@@ -1,0 +1,3601 @@
+fileFormatVersion: 2
+guid: c50c45f6e025441489a89ca460114de1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7786243282616829062
+    second: Park_TileMap_0
+  - first:
+      213: 8699377932615394143
+    second: Park_TileMap_1
+  - first:
+      213: -1788252978155261655
+    second: Park_TileMap_2
+  - first:
+      213: 8143408610191493896
+    second: Park_TileMap_3
+  - first:
+      213: -2799798246397225687
+    second: Park_TileMap_4
+  - first:
+      213: -7795814948501921214
+    second: Park_TileMap_5
+  - first:
+      213: -1709540035701178585
+    second: Park_TileMap_6
+  - first:
+      213: -2325691826115005712
+    second: Park_TileMap_7
+  - first:
+      213: -8019965301922641934
+    second: Park_TileMap_8
+  - first:
+      213: 8803919729464053748
+    second: Park_TileMap_9
+  - first:
+      213: 254369900641262528
+    second: Park_TileMap_10
+  - first:
+      213: -1414765718120886485
+    second: Park_TileMap_11
+  - first:
+      213: -482948616712167545
+    second: Park_TileMap_12
+  - first:
+      213: 2630322975635683605
+    second: Park_TileMap_13
+  - first:
+      213: -1657429575006328232
+    second: Park_TileMap_14
+  - first:
+      213: 3789514899278738107
+    second: Park_TileMap_15
+  - first:
+      213: 5426484583473134085
+    second: Park_TileMap_16
+  - first:
+      213: -8133399080032071015
+    second: Park_TileMap_17
+  - first:
+      213: 3387868437098130783
+    second: Park_TileMap_18
+  - first:
+      213: -549657710371953297
+    second: Park_TileMap_19
+  - first:
+      213: 8818891459520062100
+    second: Park_TileMap_20
+  - first:
+      213: -1916450422973057686
+    second: Park_TileMap_21
+  - first:
+      213: -3185608336759255666
+    second: Park_TileMap_22
+  - first:
+      213: -5702268244799798931
+    second: Park_TileMap_23
+  - first:
+      213: 4879998645337310826
+    second: Park_TileMap_24
+  - first:
+      213: -7690130605725871251
+    second: Park_TileMap_25
+  - first:
+      213: -3864874487069463959
+    second: Park_TileMap_26
+  - first:
+      213: -7732242744150899655
+    second: Park_TileMap_27
+  - first:
+      213: 5672837558251429222
+    second: Park_TileMap_28
+  - first:
+      213: 3558089085778453768
+    second: Park_TileMap_29
+  - first:
+      213: -6990719886106334875
+    second: Park_TileMap_30
+  - first:
+      213: -8398161897427324833
+    second: Park_TileMap_31
+  - first:
+      213: -7614419312278722475
+    second: Park_TileMap_32
+  - first:
+      213: 1881832293324744098
+    second: Park_TileMap_33
+  - first:
+      213: 6229356985206861981
+    second: Park_TileMap_34
+  - first:
+      213: -3030335787773645903
+    second: Park_TileMap_35
+  - first:
+      213: 1172769186799839583
+    second: Park_TileMap_36
+  - first:
+      213: 1272473794290458359
+    second: Park_TileMap_37
+  - first:
+      213: -8773375947185684150
+    second: Park_TileMap_38
+  - first:
+      213: -5757564346625371483
+    second: Park_TileMap_39
+  - first:
+      213: 2511187754310390389
+    second: Park_TileMap_40
+  - first:
+      213: -5115846037728092043
+    second: Park_TileMap_41
+  - first:
+      213: 2161623820550725895
+    second: Park_TileMap_42
+  - first:
+      213: 6302859211275342281
+    second: Park_TileMap_43
+  - first:
+      213: -6496910650596779669
+    second: Park_TileMap_44
+  - first:
+      213: 6999868516270402966
+    second: Park_TileMap_45
+  - first:
+      213: -4262328779528732787
+    second: Park_TileMap_46
+  - first:
+      213: 7740345495576120583
+    second: Park_TileMap_47
+  - first:
+      213: -2252103542411613229
+    second: Park_TileMap_48
+  - first:
+      213: -5596368617032473711
+    second: Park_TileMap_49
+  - first:
+      213: 4666826324153229137
+    second: Park_TileMap_50
+  - first:
+      213: 4416746339243222794
+    second: Park_TileMap_51
+  - first:
+      213: 2633167141060002088
+    second: Park_TileMap_52
+  - first:
+      213: 8408482279657348892
+    second: Park_TileMap_53
+  - first:
+      213: 3055108691281227166
+    second: Park_TileMap_54
+  - first:
+      213: 3947494900412173066
+    second: Park_TileMap_55
+  - first:
+      213: 420693678295277129
+    second: Park_TileMap_56
+  - first:
+      213: 4819257036773267280
+    second: Park_TileMap_57
+  - first:
+      213: -4098357837773654825
+    second: Park_TileMap_58
+  - first:
+      213: 2812307708546949990
+    second: Park_TileMap_59
+  - first:
+      213: 1230374882083982420
+    second: Park_TileMap_60
+  - first:
+      213: -7973572877400755300
+    second: Park_TileMap_61
+  - first:
+      213: 2219471092161195766
+    second: Park_TileMap_62
+  - first:
+      213: 6541974946039138953
+    second: Park_TileMap_63
+  - first:
+      213: 3953745537550872772
+    second: Park_TileMap_64
+  - first:
+      213: 2708032284025566196
+    second: Park_TileMap_65
+  - first:
+      213: 1015427707028483352
+    second: Park_TileMap_66
+  - first:
+      213: -4844438426241800993
+    second: Park_TileMap_67
+  - first:
+      213: -8857029259108903482
+    second: Park_TileMap_68
+  - first:
+      213: 1257510890078189063
+    second: Park_TileMap_69
+  - first:
+      213: -2514390984830822464
+    second: Park_TileMap_70
+  - first:
+      213: 2303405607280487740
+    second: Park_TileMap_71
+  - first:
+      213: -7557639617351719281
+    second: Park_TileMap_72
+  - first:
+      213: -3482695487191040960
+    second: Park_TileMap_73
+  - first:
+      213: 4562999976436156831
+    second: Park_TileMap_74
+  - first:
+      213: -7007566021035533041
+    second: Park_TileMap_75
+  - first:
+      213: -89053122222109022
+    second: Park_TileMap_76
+  - first:
+      213: 2694953641796335652
+    second: Park_TileMap_77
+  - first:
+      213: -4218361165481541178
+    second: Park_TileMap_78
+  - first:
+      213: 4322091570393622915
+    second: Park_TileMap_79
+  - first:
+      213: 9153036370119194367
+    second: Park_TileMap_80
+  - first:
+      213: -3291412382855043273
+    second: Park_TileMap_81
+  - first:
+      213: 5341284412194874131
+    second: Park_TileMap_82
+  - first:
+      213: -4093844511146919954
+    second: Park_TileMap_83
+  - first:
+      213: -7802425081225138101
+    second: Park_TileMap_84
+  - first:
+      213: 3236986478966707885
+    second: Park_TileMap_85
+  - first:
+      213: 6701168331833988318
+    second: Park_TileMap_86
+  - first:
+      213: 1335060516136732835
+    second: Park_TileMap_87
+  - first:
+      213: -5201505486624397998
+    second: Park_TileMap_88
+  - first:
+      213: -5269265840646950641
+    second: Park_TileMap_89
+  - first:
+      213: -7679235885005374434
+    second: Park_TileMap_90
+  - first:
+      213: 5886606262098143536
+    second: Park_TileMap_91
+  - first:
+      213: 8878339285236202483
+    second: Park_TileMap_92
+  - first:
+      213: -1983691593782481032
+    second: Park_TileMap_93
+  - first:
+      213: -8541602742298166883
+    second: Park_TileMap_94
+  - first:
+      213: 8926085436560823177
+    second: Park_TileMap_95
+  - first:
+      213: 3929715969810257527
+    second: Park_TileMap_96
+  - first:
+      213: 4911490041857393155
+    second: Park_TileMap_97
+  - first:
+      213: -4681434425374259005
+    second: Park_TileMap_98
+  - first:
+      213: 6446726928073172893
+    second: Park_TileMap_99
+  - first:
+      213: -8721130701650612008
+    second: Park_TileMap_100
+  - first:
+      213: -5691718939741464838
+    second: Park_TileMap_101
+  - first:
+      213: -6917692024530087080
+    second: Park_TileMap_102
+  - first:
+      213: -751688858529672303
+    second: Park_TileMap_103
+  - first:
+      213: 729457324274470793
+    second: Park_TileMap_104
+  - first:
+      213: -3175642218963680298
+    second: Park_TileMap_105
+  - first:
+      213: 8295770001198272788
+    second: Park_TileMap_106
+  - first:
+      213: 6963482161433091327
+    second: Park_TileMap_107
+  - first:
+      213: -6172075695364648200
+    second: Park_TileMap_108
+  - first:
+      213: 1757359232373751152
+    second: Park_TileMap_109
+  - first:
+      213: 7684856081821879429
+    second: Park_TileMap_110
+  - first:
+      213: 2559955392322639595
+    second: Park_TileMap_111
+  - first:
+      213: 1664296602367451576
+    second: Park_TileMap_112
+  - first:
+      213: 1236286556272947864
+    second: Park_TileMap_113
+  - first:
+      213: 1360113623958382993
+    second: Park_TileMap_114
+  - first:
+      213: -4098937368271041493
+    second: Park_TileMap_115
+  - first:
+      213: 9044771290875476041
+    second: Park_TileMap_116
+  - first:
+      213: -2247208524045359420
+    second: Park_TileMap_117
+  - first:
+      213: 6564090496040828157
+    second: Park_TileMap_118
+  - first:
+      213: 1634598340045523045
+    second: Park_TileMap_119
+  - first:
+      213: 4548131232659544531
+    second: Park_TileMap_120
+  - first:
+      213: -5181921011815247806
+    second: Park_TileMap_121
+  - first:
+      213: -4256131355859220294
+    second: Park_TileMap_122
+  - first:
+      213: 3311752170276441759
+    second: Park_TileMap_123
+  - first:
+      213: -7579376331937842583
+    second: Park_TileMap_124
+  - first:
+      213: 4303828554889468771
+    second: Park_TileMap_125
+  - first:
+      213: 8019856175543252684
+    second: Park_TileMap_126
+  - first:
+      213: -4787690350179765769
+    second: Park_TileMap_127
+  - first:
+      213: 209533815426494012
+    second: Park_TileMap_128
+  - first:
+      213: -2978444509272720153
+    second: Park_TileMap_129
+  - first:
+      213: 4691125690586352051
+    second: Park_TileMap_130
+  - first:
+      213: -7789841679960783628
+    second: Park_TileMap_131
+  - first:
+      213: 6190290520245267580
+    second: Park_TileMap_132
+  - first:
+      213: -965872140727341095
+    second: Park_TileMap_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Park_TileMap_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c523230b4e0c60800000000000000
+      internalID: 7786243282616829062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a96073266ab870800000000000000
+      internalID: 8699377932615394143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92175841469de27e0800000000000000
+      internalID: -1788252978155261655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b425f3cf2330170800000000000000
+      internalID: 8143408610191493896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9255bb0345e1529d0800000000000000
+      internalID: -2799798246397225687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242ecdbbb93bfc390800000000000000
+      internalID: -7795814948501921214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 609
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ff8b2256e7648e0800000000000000
+      internalID: -1709540035701178585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 598
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2b26f2b9b79bfd0800000000000000
+      internalID: -2325691826115005712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 598
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f741fbac0c53b090800000000000000
+      internalID: -8019965301922641934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 609
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff02c9495ecd2a70800000000000000
+      internalID: 8803919729464053748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 606
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb1641b314b78300800000000000000
+      internalID: 254369900641262528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 606
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f010b331ebd5ce0800000000000000
+      internalID: -1414765718120886485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 606
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fda18bac83c49f0800000000000000
+      internalID: -482948616712167545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 607
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519305f6fc8c08420800000000000000
+      internalID: 2630322975635683605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 607
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a658d3590aff8e0800000000000000
+      internalID: -1657429575006328232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 607
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb23f8229bf079430800000000000000
+      internalID: 3789514899278738107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 371
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50abc095afebe4b40800000000000000
+      internalID: 5426484583473134085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 569
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992133a11ac502f80800000000000000
+      internalID: -8133399080032071015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 569
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dedf2d460240f20800000000000000
+      internalID: 3387868437098130783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 569
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65a93189393f58f0800000000000000
+      internalID: -549657710371953297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 569
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4926b65de0ff26a70800000000000000
+      internalID: 8818891459520062100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 569
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a653b0d7e766765e0800000000000000
+      internalID: -1916450422973057686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 569
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d01f588127ac3d0800000000000000
+      internalID: -3185608336759255666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 576
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61c7b64e397dd0b0800000000000000
+      internalID: -5702268244799798931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 566
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66c7bf99ec39b340800000000000000
+      internalID: 4879998645337310826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 566
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63995945fa274590800000000000000
+      internalID: -7690130605725871251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_26
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 573
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a21c881253d5ac0800000000000000
+      internalID: -3864874487069463959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 573
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9344bcdf03e81b490800000000000000
+      internalID: -7732242744150899655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 543
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d121804b7f9be40800000000000000
+      internalID: 5672837558251429222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_29
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 543
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805e4050c2fd06130800000000000000
+      internalID: 3558089085778453768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 543
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5696f505d49fbfe90800000000000000
+      internalID: -6990719886106334875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50bf99ef3cb37b80800000000000000
+      internalID: -8398161897427324833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558a0c87af5245690800000000000000
+      internalID: -7614419312278722475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5ea7a108c9d1a10800000000000000
+      internalID: 1881832293324744098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907a5a6c2f137650800000000000000
+      internalID: 6229356985206861981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb299b08a512f5d0800000000000000
+      internalID: -3030335787773645903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_36
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f596abe9c53864010800000000000000
+      internalID: 1172769186799839583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 542
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe1dae8c2cb8a110800000000000000
+      internalID: 1272473794290458359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 542
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418a033f05be3680800000000000000
+      internalID: -8773375947185684150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 542
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2d0fb4bb50910b0800000000000000
+      internalID: -5757564346625371483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5725bfb25f789d220800000000000000
+      internalID: 2511187754310390389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_41
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570a0a3322dd009b0800000000000000
+      internalID: -5115846037728092043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e2f97961affd10800000000000000
+      internalID: 2161623820550725895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_43
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c19d550f01487750800000000000000
+      internalID: 6302859211275342281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b691ab57f2656d5a0800000000000000
+      internalID: -6496910650596779669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69decb22457842160800000000000000
+      internalID: 6999868516270402966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff34cce8a29d4c0800000000000000
+      internalID: -4262328779528732787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d0c96d73b3b6b60800000000000000
+      internalID: 7740345495576120583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db2825a2cbeeb0e0800000000000000
+      internalID: -2252103542411613229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a2a5c464b552b0800000000000000
+      internalID: -5596368617032473711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f589fd0d5e3c040800000000000000
+      internalID: 4666826324153229137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 437
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a076995056f6b4d30800000000000000
+      internalID: 4416746339243222794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 511
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821cc1d4093ea8420800000000000000
+      internalID: 2633167141060002088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 512
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9423551ee0b470800000000000000
+      internalID: 8408482279657348892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9da6060b2de56a20800000000000000
+      internalID: 3055108691281227166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bcbbb72b158c630800000000000000
+      internalID: 3947494900412173066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eda06ebaa96d500800000000000000
+      internalID: 420693678295277129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0571c2ecdb071e240800000000000000
+      internalID: 4819257036773267280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d43015b245bf17c0800000000000000
+      internalID: -4098357837773654825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_59
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663a80fe5f2570720800000000000000
+      internalID: 2812307708546949990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ccd2bbf6b231110800000000000000
+      internalID: 1230374882083982420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b6dbb6bd285190800000000000000
+      internalID: -7973572877400755300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_62
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2485f2352dce10800000000000000
+      internalID: 2219471092161195766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_63
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 480
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a0b247d83c9ca50800000000000000
+      internalID: 6541974946039138953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_64
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 448
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0710a5e968ed630800000000000000
+      internalID: 3953745537550872772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f332a9b30dd49520800000000000000
+      internalID: 2708032284025566196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_66
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81da58c9e16871e00800000000000000
+      internalID: 1015427707028483352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4ea931be815ccb0800000000000000
+      internalID: -4844438426241800993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_68
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5929db0d2851580800000000000000
+      internalID: -8857029259108903482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706bb40fd73937110800000000000000
+      internalID: 1257510890078189063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_70
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7d6ba98b61b1dd0800000000000000
+      internalID: -2514390984830822464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3da893223757ff10800000000000000
+      internalID: 2303405607280487740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_72
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86e4536fcedd1790800000000000000
+      internalID: -7557639617351719281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_73
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 351
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c3f1118eafaafc0800000000000000
+      internalID: -3482695487191040960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99c7918d48035f30800000000000000
+      internalID: 4562999976436156831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d5410e4df10ce90800000000000000
+      internalID: -7007566021035533041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_76
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aecfcb38ae93cef0800000000000000
+      internalID: -89053122222109022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_77
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4287a690f06666520800000000000000
+      internalID: 2694953641796335652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_78
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c18b2daede5575c0800000000000000
+      internalID: -4218361165481541178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_79
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 328
+        width: 128
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a50442672bfb30800000000000000
+      internalID: 4322091570393622915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_80
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 408
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff67f21751e160f70800000000000000
+      internalID: 9153036370119194367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 408
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7376a9e50ed8252d0800000000000000
+      internalID: -3291412382855043273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_82
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 366
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313e431afdd002a40800000000000000
+      internalID: 5341284412194874131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_83
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 366
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7b7637b1ebf27c0800000000000000
+      internalID: -4093844511146919954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_84
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 366
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b403af64ab738b390800000000000000
+      internalID: -7802425081225138101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_85
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 369
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da69d856d061cec20800000000000000
+      internalID: 3236986478966707885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_86
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4df0fe7155ffc50800000000000000
+      internalID: 6701168331833988318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_87
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8caf94776178210800000000000000
+      internalID: 1335060516136732835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255e184915a80d7b0800000000000000
+      internalID: -5201505486624397998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01732db2aecfd6b0800000000000000
+      internalID: -5269265840646950641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c72df16afdd6590800000000000000
+      internalID: -7679235885005374434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_91
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03923f0f43d61b150800000000000000
+      internalID: 5886606262098143536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_92
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb36eb5a82363b70800000000000000
+      internalID: 8878339285236202483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_93
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87faaa861038874e0800000000000000
+      internalID: -1983691593782481032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_94
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99b0dcaf81267980800000000000000
+      internalID: -8541602742298166883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_95
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983def08963dfdb70800000000000000
+      internalID: 8926085436560823177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_96
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77658b0aad7298630800000000000000
+      internalID: 3929715969810257527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_97
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30247cebb2e192440800000000000000
+      internalID: 4911490041857393155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_98
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c848448134380fb0800000000000000
+      internalID: -4681434425374259005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_99
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d972fbf1cff577950800000000000000
+      internalID: 6446726928073172893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_100
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0bc5855d158f680800000000000000
+      internalID: -8721130701650612008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d853c7c3f201b0800000000000000
+      internalID: -5691718939741464838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_102
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d45451cb6fff90800000000000000
+      internalID: -6917692024530087080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19358bd37f67195f0800000000000000
+      internalID: -751688858529672303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_104
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 224
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fcf24529d8f1a00800000000000000
+      internalID: 729457324274470793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_105
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 230
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3cfe42a3adde3d0800000000000000
+      internalID: -3175642218963680298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411d3cbfcde702370800000000000000
+      internalID: 8295770001198272788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_107
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc1df7b12243a060800000000000000
+      internalID: 6963482161433091327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_108
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2d7fa2bd1685aa0800000000000000
+      internalID: -6172075695364648200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_109
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df36439e4636810800000000000000
+      internalID: 1757359232373751152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_110
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c4efae3e716aa60800000000000000
+      internalID: 7684856081821879429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_111
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be69c38bdd9c68320800000000000000
+      internalID: 2559955392322639595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_112
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1600921f4c81710800000000000000
+      internalID: 1664296602367451576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_113
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8927d33a21c282110800000000000000
+      internalID: 1236286556272947864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_114
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1996532822810e210800000000000000
+      internalID: 1360113623958382993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_115
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c41af3e26ad17c0800000000000000
+      internalID: -4098937368271041493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_116
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948b84b519b758d70800000000000000
+      internalID: 9044771290875476041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_117
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6eb0ce0cf40d0e0800000000000000
+      internalID: -2247208524045359420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_118
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcf7023785581b50800000000000000
+      internalID: 6564090496040828157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_119
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 225
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5684bd0a7824fa610800000000000000
+      internalID: 1634598340045523045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_120
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 226
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9188252453e1f30800000000000000
+      internalID: 4548131232659544531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_121
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 225
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2409e947b4e1618b0800000000000000
+      internalID: -5181921011815247806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab80c90f41f2fe4c0800000000000000
+      internalID: -4256131355859220294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_123
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec47d6d05b5fd20800000000000000
+      internalID: 3311752170276441759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_124
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a77d32265a0d690800000000000000
+      internalID: -7579376331937842583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_125
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b9e5c94454abb30800000000000000
+      internalID: 4303828554889468771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_126
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc67afc53b04c4f60800000000000000
+      internalID: 8019856175543252684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_127
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f138f62ef4be8db0800000000000000
+      internalID: -4787690350179765769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_128
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eadec15e968e200800000000000000
+      internalID: 209533815426494012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_129
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 249
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec3691df707aa6d0800000000000000
+      internalID: -2978444509272720153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_130
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 249
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9cb1006f93a1140800000000000000
+      internalID: 4691125690586352051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_131
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c761b34ce4e390800000000000000
+      internalID: -7789841679960783628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_132
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 24
+        width: 384
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cefab3e6458e550800000000000000
+      internalID: 6190290520245267580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_TileMap_133
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 24
+        width: 384
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df2089c7688892f0800000000000000
+      internalID: -965872140727341095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2f52794fd94545d47a6b665a9cfecea3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Park_TileMap_0: 7786243282616829062
+      Park_TileMap_1: 8699377932615394143
+      Park_TileMap_10: 254369900641262528
+      Park_TileMap_100: -8721130701650612008
+      Park_TileMap_101: -5691718939741464838
+      Park_TileMap_102: -6917692024530087080
+      Park_TileMap_103: -751688858529672303
+      Park_TileMap_104: 729457324274470793
+      Park_TileMap_105: -3175642218963680298
+      Park_TileMap_106: 8295770001198272788
+      Park_TileMap_107: 6963482161433091327
+      Park_TileMap_108: -6172075695364648200
+      Park_TileMap_109: 1757359232373751152
+      Park_TileMap_11: -1414765718120886485
+      Park_TileMap_110: 7684856081821879429
+      Park_TileMap_111: 2559955392322639595
+      Park_TileMap_112: 1664296602367451576
+      Park_TileMap_113: 1236286556272947864
+      Park_TileMap_114: 1360113623958382993
+      Park_TileMap_115: -4098937368271041493
+      Park_TileMap_116: 9044771290875476041
+      Park_TileMap_117: -2247208524045359420
+      Park_TileMap_118: 6564090496040828157
+      Park_TileMap_119: 1634598340045523045
+      Park_TileMap_12: -482948616712167545
+      Park_TileMap_120: 4548131232659544531
+      Park_TileMap_121: -5181921011815247806
+      Park_TileMap_122: -4256131355859220294
+      Park_TileMap_123: 3311752170276441759
+      Park_TileMap_124: -7579376331937842583
+      Park_TileMap_125: 4303828554889468771
+      Park_TileMap_126: 8019856175543252684
+      Park_TileMap_127: -4787690350179765769
+      Park_TileMap_128: 209533815426494012
+      Park_TileMap_129: -2978444509272720153
+      Park_TileMap_13: 2630322975635683605
+      Park_TileMap_130: 4691125690586352051
+      Park_TileMap_131: -7789841679960783628
+      Park_TileMap_132: 6190290520245267580
+      Park_TileMap_133: -965872140727341095
+      Park_TileMap_14: -1657429575006328232
+      Park_TileMap_15: 3789514899278738107
+      Park_TileMap_16: 5426484583473134085
+      Park_TileMap_17: -8133399080032071015
+      Park_TileMap_18: 3387868437098130783
+      Park_TileMap_19: -549657710371953297
+      Park_TileMap_2: -1788252978155261655
+      Park_TileMap_20: 8818891459520062100
+      Park_TileMap_21: -1916450422973057686
+      Park_TileMap_22: -3185608336759255666
+      Park_TileMap_23: -5702268244799798931
+      Park_TileMap_24: 4879998645337310826
+      Park_TileMap_25: -7690130605725871251
+      Park_TileMap_26: -3864874487069463959
+      Park_TileMap_27: -7732242744150899655
+      Park_TileMap_28: 5672837558251429222
+      Park_TileMap_29: 3558089085778453768
+      Park_TileMap_3: 8143408610191493896
+      Park_TileMap_30: -6990719886106334875
+      Park_TileMap_31: -8398161897427324833
+      Park_TileMap_32: -7614419312278722475
+      Park_TileMap_33: 1881832293324744098
+      Park_TileMap_34: 6229356985206861981
+      Park_TileMap_35: -3030335787773645903
+      Park_TileMap_36: 1172769186799839583
+      Park_TileMap_37: 1272473794290458359
+      Park_TileMap_38: -8773375947185684150
+      Park_TileMap_39: -5757564346625371483
+      Park_TileMap_4: -2799798246397225687
+      Park_TileMap_40: 2511187754310390389
+      Park_TileMap_41: -5115846037728092043
+      Park_TileMap_42: 2161623820550725895
+      Park_TileMap_43: 6302859211275342281
+      Park_TileMap_44: -6496910650596779669
+      Park_TileMap_45: 6999868516270402966
+      Park_TileMap_46: -4262328779528732787
+      Park_TileMap_47: 7740345495576120583
+      Park_TileMap_48: -2252103542411613229
+      Park_TileMap_49: -5596368617032473711
+      Park_TileMap_5: -7795814948501921214
+      Park_TileMap_50: 4666826324153229137
+      Park_TileMap_51: 4416746339243222794
+      Park_TileMap_52: 2633167141060002088
+      Park_TileMap_53: 8408482279657348892
+      Park_TileMap_54: 3055108691281227166
+      Park_TileMap_55: 3947494900412173066
+      Park_TileMap_56: 420693678295277129
+      Park_TileMap_57: 4819257036773267280
+      Park_TileMap_58: -4098357837773654825
+      Park_TileMap_59: 2812307708546949990
+      Park_TileMap_6: -1709540035701178585
+      Park_TileMap_60: 1230374882083982420
+      Park_TileMap_61: -7973572877400755300
+      Park_TileMap_62: 2219471092161195766
+      Park_TileMap_63: 6541974946039138953
+      Park_TileMap_64: 3953745537550872772
+      Park_TileMap_65: 2708032284025566196
+      Park_TileMap_66: 1015427707028483352
+      Park_TileMap_67: -4844438426241800993
+      Park_TileMap_68: -8857029259108903482
+      Park_TileMap_69: 1257510890078189063
+      Park_TileMap_7: -2325691826115005712
+      Park_TileMap_70: -2514390984830822464
+      Park_TileMap_71: 2303405607280487740
+      Park_TileMap_72: -7557639617351719281
+      Park_TileMap_73: -3482695487191040960
+      Park_TileMap_74: 4562999976436156831
+      Park_TileMap_75: -7007566021035533041
+      Park_TileMap_76: -89053122222109022
+      Park_TileMap_77: 2694953641796335652
+      Park_TileMap_78: -4218361165481541178
+      Park_TileMap_79: 4322091570393622915
+      Park_TileMap_8: -8019965301922641934
+      Park_TileMap_80: 9153036370119194367
+      Park_TileMap_81: -3291412382855043273
+      Park_TileMap_82: 5341284412194874131
+      Park_TileMap_83: -4093844511146919954
+      Park_TileMap_84: -7802425081225138101
+      Park_TileMap_85: 3236986478966707885
+      Park_TileMap_86: 6701168331833988318
+      Park_TileMap_87: 1335060516136732835
+      Park_TileMap_88: -5201505486624397998
+      Park_TileMap_89: -5269265840646950641
+      Park_TileMap_9: 8803919729464053748
+      Park_TileMap_90: -7679235885005374434
+      Park_TileMap_91: 5886606262098143536
+      Park_TileMap_92: 8878339285236202483
+      Park_TileMap_93: -1983691593782481032
+      Park_TileMap_94: -8541602742298166883
+      Park_TileMap_95: 8926085436560823177
+      Park_TileMap_96: 3929715969810257527
+      Park_TileMap_97: 4911490041857393155
+      Park_TileMap_98: -4681434425374259005
+      Park_TileMap_99: 6446726928073172893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
