@@ -6,19 +6,34 @@ public class OrbitingBin : MonoBehaviour
     public float radius = 1.6f;       // distance au joueur
     public float orbitSpeed = 180f;   // °/s
 
+    float angle;                      // --> angle d’orbite en radians
+
     void Start()
     {
         if (!player) player = GameObject.FindWithTag("Player")?.transform;
-        if (player) transform.position = player.position + Vector3.right * radius;
+        if (player)
+        {
+            // place la poubelle sur le cercle d’orbite et initialise l’angle
+            Vector3 offset = Vector3.right * radius;
+            transform.position = player.position + offset;
+            angle = 0f;
+        }
     }
 
-    void Update()
+    void LateUpdate() // après le déplacement du joueur
     {
         if (!player) return;
-        transform.RotateAround(player.position, Vector3.forward, orbitSpeed * Time.deltaTime);
-        var dir = (transform.position - player.position).normalized;
-        transform.position = player.position + dir * radius;       // garde le rayon constant
-        transform.Rotate(0, 0, 360f * Time.deltaTime);             // (optionnel) spin visuel propre à ta prefab
+
+        // avance l’angle puis recalcule la position autour du joueur
+        angle += orbitSpeed * Mathf.Deg2Rad * Time.deltaTime;
+        Vector3 offset = new Vector3(Mathf.Cos(angle), Mathf.Sin(angle), 0f) * radius;
+        transform.position = player.position + offset;
+
+        // (optionnel) orienter tangentiellement :
+        // transform.up = Vector3.Perpendicular(offset).normalized;
+
+        // (optionnel) spin visuel indépendant :
+        // transform.Rotate(0, 0, 360f * Time.deltaTime);
     }
 
     void OnTriggerEnter2D(Collider2D other)
