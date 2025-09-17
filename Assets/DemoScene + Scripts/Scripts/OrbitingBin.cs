@@ -38,7 +38,12 @@ public class OrbitingBin : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy")) Destroy(other.gameObject);
+        Debug.Log("Touch: " + other.name);
+        if (other.CompareTag("Enemy"))
+        {
+            Destroy(other.gameObject);
+            return; // <-- important : on sort, pas d'accès à 'other' après Destroy
+        }
         // ou : other.GetComponent<EnemyHealth>()?.TakeDamage(999);
     }
 }

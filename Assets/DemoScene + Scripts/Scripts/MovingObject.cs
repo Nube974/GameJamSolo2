@@ -8,9 +8,15 @@ public class MovingObject : MonoBehaviour
     [SerializeField] private float speed = 5;
     [SerializeField] private bool autoMove = true;
     [SerializeField] private bool looping = true;
+    [SerializeField] Transform objToMove2;
 
     private int currentIndex = 0;
     private Transform currentTarget;
+
+    void Awake()
+    {
+        if (objToMove2 == null) objToMove = gameObject;   // fallback: on bouge soi-même
+    }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -22,6 +28,12 @@ public class MovingObject : MonoBehaviour
             currentTarget = positionList[currentIndex];
         }
 
+    }
+
+    void Update()
+    {
+        if (objToMove2 == null) return;                  // l’objet a été détruit → on ne fait rien
+                                                        // ... le reste de ta logique de déplacement qui utilisait objToMove ...
     }
 
     // Fixed update est appelé a chaque update du moteur physique. Il est preférable de modifier a ce moment les positions des objects physiques

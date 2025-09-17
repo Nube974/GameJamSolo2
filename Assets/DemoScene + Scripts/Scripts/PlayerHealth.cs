@@ -7,20 +7,14 @@ public class PlayerHealth : MonoBehaviour
     { 
         hp = max; 
     }
-    public float Ratio => (float)hp / max;
+    public float Ratio => (float) hp / max;
     public void TakeHit(int d = 1)
     {
         hp = Mathf.Max(0, hp - d);
         if (hp == 0)
         {
 
-            Destroy(gameObject);
+            Destroy(gameObject,Time.deltaTime);
         }
-    }
-            
-       
-    public void Heal(int v = 1) 
-    { 
-        hp = Mathf.Min(max, hp + v); 
     }
 }
