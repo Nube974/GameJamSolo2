@@ -2,14 +2,25 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    int health = 3;
-
-   public void  TakeHit(int dmg = 1)
+    public int max = 3, hp;
+    void Awake() 
+    { 
+        hp = max; 
+    }
+    public float Ratio => (float)hp / max;
+    public void TakeHit(int d = 1)
     {
-        health -= dmg;
-        if (health <= 0)
+        hp = Mathf.Max(0, hp - d);
+        if (hp == 0)
         {
+
             Destroy(gameObject);
         }
+    }
+            
+       
+    public void Heal(int v = 1) 
+    { 
+        hp = Mathf.Min(max, hp + v); 
     }
 }
