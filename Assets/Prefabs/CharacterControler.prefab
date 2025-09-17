@@ -137,6 +137,7 @@ GameObject:
   - component: {fileID: 3658916264853524660}
   - component: {fileID: 6474430374934907753}
   - component: {fileID: 9209708998854232991}
+  - component: {fileID: 6099742153500176764}
   m_Layer: 0
   m_Name: CharacterControler
   m_TagString: Player
@@ -296,3 +297,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   max: 3
   hp: 3
+--- !u!114 &6099742153500176764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4987296072843849824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b6585d670ac4ea4b9a0bbd65f4b0b49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 1
+  xp: 0
+  xpToNext: 10
+  growth: 1.5
+  onLevelUp:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onXpChanged:
+    m_PersistentCalls:
+      m_Calls: []
