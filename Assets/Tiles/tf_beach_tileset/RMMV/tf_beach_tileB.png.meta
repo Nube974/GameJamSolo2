@@ -759,7 +759,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tf_beach_tileB_0: 6730836065544178472
+      tf_beach_tileB_1: -1250571389476754080
+      tf_beach_tileB_10: -83471075835705978
+      tf_beach_tileB_11: 2336058576386171536
+      tf_beach_tileB_12: -7847328635314291490
+      tf_beach_tileB_13: 2902672756615059517
+      tf_beach_tileB_14: -7397791897120700819
+      tf_beach_tileB_15: -7571649666398650692
+      tf_beach_tileB_16: -2723257570725473089
+      tf_beach_tileB_17: 4489209654657496435
+      tf_beach_tileB_18: -169754833637230368
+      tf_beach_tileB_19: 2104274390668783103
+      tf_beach_tileB_2: 2669251848352703701
+      tf_beach_tileB_20: 6473320594934092417
+      tf_beach_tileB_21: -856701996635447083
+      tf_beach_tileB_22: 3149742286485520045
+      tf_beach_tileB_23: -5900861964696022687
+      tf_beach_tileB_24: 2257660996392050944
+      tf_beach_tileB_25: -6605493668562088457
+      tf_beach_tileB_3: -4495836471923406302
+      tf_beach_tileB_4: 53849052855025126
+      tf_beach_tileB_5: -480773214797325624
+      tf_beach_tileB_6: 3175475353760720091
+      tf_beach_tileB_7: 5354344977103592951
+      tf_beach_tileB_8: -8335322980732136173
+      tf_beach_tileB_9: 7511791725712994066
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Canette Game Jam_0: 882997190118559147
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

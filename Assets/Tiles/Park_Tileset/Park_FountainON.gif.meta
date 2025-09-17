@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Park_FountainON_0: 3723664958053353633
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

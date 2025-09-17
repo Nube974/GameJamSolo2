@@ -934,7 +934,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      prototype_character_blue_0: -2716014107167940675
+      prototype_character_blue_1: -7185358802112165044
+      prototype_character_blue_10: 670670417724448802
+      prototype_character_blue_11: 7486002030831641271
+      prototype_character_blue_12: 8200836602790385029
+      prototype_character_blue_13: -8652532542918056561
+      prototype_character_blue_14: -685830963040168790
+      prototype_character_blue_15: 8293153665335520013
+      prototype_character_blue_16: -3227653794043798424
+      prototype_character_blue_17: -8489576323337772284
+      prototype_character_blue_18: -8377830090815016260
+      prototype_character_blue_19: -6793548321085014932
+      prototype_character_blue_2: -6728464631959655673
+      prototype_character_blue_20: -2337791727172851936
+      prototype_character_blue_21: 6318803610906392099
+      prototype_character_blue_22: 7078529438205240015
+      prototype_character_blue_23: 964049120176879676
+      prototype_character_blue_24: -9130287819797021614
+      prototype_character_blue_25: 4130208503414198354
+      prototype_character_blue_26: 5214166228000362459
+      prototype_character_blue_27: 5944472745711757727
+      prototype_character_blue_28: 3779907188808259375
+      prototype_character_blue_29: -3177814629901201182
+      prototype_character_blue_3: 2526405198183997407
+      prototype_character_blue_30: -6288456530169146732
+      prototype_character_blue_31: 8446616732553962545
+      prototype_character_blue_32: -1681949561564377402
+      prototype_character_blue_4: 3042141159076939392
+      prototype_character_blue_5: -4692271945000177607
+      prototype_character_blue_6: -4221331094961520493
+      prototype_character_blue_7: 2231503597271404831
+      prototype_character_blue_8: 831336398046097993
+      prototype_character_blue_9: 9081926209380075163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

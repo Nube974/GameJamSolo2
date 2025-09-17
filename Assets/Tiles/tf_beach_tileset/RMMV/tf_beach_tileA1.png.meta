@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tf_beach_tileA1_0: -4210775368222265205
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

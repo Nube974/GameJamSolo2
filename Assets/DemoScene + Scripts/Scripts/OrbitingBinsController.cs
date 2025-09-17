@@ -40,9 +40,9 @@ public class OrbitingBinsController : MonoBehaviour
     //}
 
     // ---------- Upgrades publics ----------
-    public void Upgrade_AddBin(int amount = 1) { SetBinCount(Mathf.Clamp((bins?.Length ?? binCount) + amount, 1, 12)); }
-    public void Upgrade_Radius(float add = 0.3f) { radius += add; }
-    public void Upgrade_Speed(float add = 60f) { orbitSpeed += add; }
+    public void Upgrade_AddBin(int amount = 1) { SetBinCount(Mathf.Clamp((bins?.Length ?? binCount) + amount, 1, 8)); }
+    public void Upgrade_Radius(float add = 1f) { radius += add; }
+    public void Upgrade_Speed(float add = 80f) { orbitSpeed += add; }
 
     public void SetBinCount(int newCount)
     {
