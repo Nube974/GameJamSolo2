@@ -8652,7 +8652,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -477.86}
+  m_AnchoredPosition: {x: 451.7, y: -477.86}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &726883212
@@ -10104,8 +10104,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -4.894966, y: 0}
-  m_SizeDelta: {x: -9.790068, y: 0}
+  m_AnchoredPosition: {x: -73.549965, y: 0}
+  m_SizeDelta: {x: -147.10008, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1033687955
 MonoBehaviour:
@@ -11435,11 +11435,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
       propertyPath: growth
-      value: 1.7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
       propertyPath: xpToNext
-      value: 10
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
       propertyPath: onWillLevelUp.m_PersistentCalls.m_Calls.Array.size
@@ -12054,6 +12054,10 @@ PrefabInstance:
     - target: {fileID: 2441476179075208723, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3357986071973426121, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
+      propertyPath: xpValue
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6253104258563038611, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
       propertyPath: m_Name
@@ -13063,7 +13067,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2107235595}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 725587646}
+        m_TargetAssemblyTypeName: VictoryScreen, Assembly-CSharp
+        m_MethodName: ReturnMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2107235595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13138,11 +13154,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5244911229372509446, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
       propertyPath: interval
-      value: 1.5
+      value: 1.7
       objectReference: {fileID: 0}
     - target: {fileID: 5244911229372509446, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
       propertyPath: accelEvery
-      value: 15
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5244911229372509446, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
       propertyPath: accelFactor

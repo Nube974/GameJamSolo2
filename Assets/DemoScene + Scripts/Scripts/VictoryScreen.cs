@@ -28,4 +28,11 @@ public class VictoryScreen : MonoBehaviour
         Scene s = SceneManager.GetActiveScene();
         SceneManager.LoadScene(s.buildIndex);
     }
+
+    public void ReturnMenu()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("MainMenu");
+
+    }
 }

@@ -16,13 +16,14 @@ public class OrbitingBinsController : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("Hugo is hungry");
         if (!player) player = GameObject.FindWithTag("Player")?.transform;
         binParent = new GameObject("Bins").transform;
         binParent.parent = player.transform;
         binParent.localScale = Vector3.one;
         SetBinCount(1);
         RebuildBins();
+        ApplyStatsToBins();                           // NEW: pousse radius/speed sur les bins
+
     }
 
     //void LateUpdate()
@@ -49,6 +50,8 @@ public class OrbitingBinsController : MonoBehaviour
         if (bins != null && bins.Length == newCount) return; // idempotent
         binCount = newCount;
         RebuildBins();
+        ApplyStatsToBins();                           // NEW: après rebuild, re-pousse les stats
+
     }
 
     // ---------- Construction contrôlée ----------
@@ -80,4 +83,19 @@ public class OrbitingBinsController : MonoBehaviour
 
         building = false;
     }
+
+    // Pousse les valeurs du controller vers chaque OrbitingBin existant
+    void ApplyStatsToBins()                     // NEW
+    {
+        if (bins == null) return;
+        for (int i = 0; i < bins.Length; i++)
+        {
+            var b = bins[i]; if (!b) continue;
+            var ob = b.GetComponent<OrbitingBin>();
+            if (!ob) continue;
+            ob.radius = radius;
+            ob.orbitSpeed = orbitSpeed;
+        }
+    }
+
 }

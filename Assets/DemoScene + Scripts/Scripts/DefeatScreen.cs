@@ -32,10 +32,7 @@ public class DefeatScreen : MonoBehaviour
     public void ToMenu()
     {
         Time.timeScale = 1f;
-        if (!string.IsNullOrEmpty(mainMenuSceneName))
-            SceneManager.LoadScene(mainMenuSceneName);
-        else
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene("MainMenu");
     }
 
     /// <summary>Quitte l'application (ne fait rien dans l'Editor).</summary>
