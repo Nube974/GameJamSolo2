@@ -3,6 +3,7 @@ using UnityEngine;
 public class EnemySpawnerLite : MonoBehaviour
 {
     public GameObject enemyPrefab;
+    public GameObject enemyPrefab2;
     public Transform[] spawnPoints;
     public float interval = 2f;          // intervalle de départ
 

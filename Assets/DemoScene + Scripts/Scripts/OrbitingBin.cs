@@ -7,6 +7,7 @@ public class OrbitingBin : MonoBehaviour
     public float orbitSpeed = 180f;   // °/s
 
     public float angle;                      // --> angle d’orbite en radians
+    public int damage = 1;
 
     void Start()
     {
@@ -44,7 +45,7 @@ public class OrbitingBin : MonoBehaviour
             var eh = other.GetComponent<EnemyHealth>();
             if (eh)
             {
-                eh.Kill();
+                eh.TakeDamage();
             }
             else Destroy(other.gameObject);
             return;

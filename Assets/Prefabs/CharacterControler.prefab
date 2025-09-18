@@ -328,8 +328,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   level: 1
   xp: 0
-  xpToNext: 20
-  growth: 1.5
+  xpToNext: 15
+  growth: 2
   onLevelUp:
     m_PersistentCalls:
       m_Calls:

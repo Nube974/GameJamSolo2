@@ -52,4 +52,8 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  interval: 2
+  interval: 1.7
+  accelerateAfter: 20
+  accelEvery: 10
+  accelFactor: 0.7
+  minInterval: 0.3
