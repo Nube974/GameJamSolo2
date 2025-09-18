@@ -19,6 +19,7 @@ public class PlayerXP : MonoBehaviour
             xp -= xpToNext; level++;
             xpToNext = Mathf.CeilToInt(xpToNext * growth);
             onLevelUp?.Invoke();
+            onXpChanged?.Invoke();
         }
     }
 

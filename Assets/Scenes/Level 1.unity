@@ -8720,6 +8720,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 2117880623}
   fill: {fileID: 2016078744}
+  animateLevelUp: 1
+  flashTime: 0.15
 --- !u!1 &751258947
 GameObject:
   m_ObjectHideFlags: 0
@@ -11432,13 +11434,49 @@ PrefabInstance:
       value: CharacterControler
       objectReference: {fileID: 0}
     - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: growth
+      value: 1.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: xpToNext
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: onWillLevelUp.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
       propertyPath: onLevelUp.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 2035270140}
     - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: onWillLevelUp.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
       propertyPath: onXpChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 726883213}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: onWillLevelUp.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2117880623}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: onWillLevelUp.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: onWillLevelUp.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ConfirmLevelUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: onWillLevelUp.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PlayerXP, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099742153500176764, guid: 47501ad1b20de11488d80012682d3126, type: 3}
+      propertyPath: onWillLevelUp.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 9209708998854232991, guid: 47501ad1b20de11488d80012682d3126, type: 3}
       propertyPath: onDeath.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -13097,6 +13135,22 @@ PrefabInstance:
     - target: {fileID: 496820518940424892, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
       propertyPath: m_Name
       value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244911229372509446, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
+      propertyPath: interval
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244911229372509446, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
+      propertyPath: accelEvery
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244911229372509446, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
+      propertyPath: accelFactor
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244911229372509446, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
+      propertyPath: accelerateAfter
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 5244911229372509446, guid: fbfd2465102223a43acf297aaf50f178, type: 3}
       propertyPath: 'spawnPoints.Array.data[0]'
