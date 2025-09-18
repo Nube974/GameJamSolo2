@@ -1,8 +1,8 @@
 using UnityEngine;
 
-public class EnemySpawnerLite : MonoBehaviour
+public class EnemySpawnerLite2 : MonoBehaviour
 {
-    public GameObject enemyPrefab;
+    public GameObject enemyPrefab2;
     public Transform[] spawnPoints;
     public float interval = 2f;          // intervalle de départ
 
@@ -33,8 +33,8 @@ public class EnemySpawnerLite : MonoBehaviour
 
     void Spawn()
     {
-        if (spawnPoints == null || spawnPoints.Length == 0 || enemyPrefab == null) return;
+        if (spawnPoints == null || spawnPoints.Length == 0 || enemyPrefab2 == null) return;
         int i = Random.Range(0, spawnPoints.Length);
-        Instantiate(enemyPrefab, spawnPoints[i].position, Quaternion.identity);
+        Instantiate(enemyPrefab2, spawnPoints[i].position, Quaternion.identity);
     }
 }

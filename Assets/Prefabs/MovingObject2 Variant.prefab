@@ -54,7 +54,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3357986071973426121, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
       propertyPath: hp
-      value: 4
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3357986071973426121, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
+      propertyPath: xpValue
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6253104258563038611, guid: 970e22be42539584ab808fdf2e7ccdf0, type: 3}
       propertyPath: m_Name
